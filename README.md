@@ -27,6 +27,5 @@ We welcome contributions to improve this project. Please fork the repository and
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or suggestions, please open an issue or contact [Your Name] at [Your Email].
+
 
