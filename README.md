@@ -1,7 +1,7 @@
 # Virtual Try-On Avatar Prototype
 
 ## Overview
-This project is a prototype developed for the prefinale of the Myntra HackerRamp "We for She" hackathon. It aims to create an avatar from the user's body measurements, acting as a mannequin for virtual try-ons. This solution is designed to reduce return rates and increase user engagement on online shopping platforms.
+This project is a prototype developed for the Implementation phase of the Myntra HackerRamp "We for She" hackathon. It aims to create an avatar from the user's body measurements, acting as a mannequin for virtual try-ons. This solution is designed to reduce return rates and increase user engagement on online shopping platforms.
 
 <p align=center>
 <img src="https://github.com/user-attachments/assets/9ff8c9c8-ceb6-4092-b465-f46894629030" width="500" height="300">
