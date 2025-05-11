@@ -35,6 +35,9 @@ This project is a prototype developed for the Implementation phase of the Myntra
 <img src="https://github.com/user-attachments/assets/2bb37d20-163a-43f8-abe9-5bfc4c87d3a9" width="500" height="300">
 </p>
 
+## Presentation Video
+https://drive.google.com/file/d/1JyjwVQEgBggUqGzblSDOIF4Aa_vPFwC7/view?usp=drivesdk
+
 ## Limitations
 - This is a demo prototype with limited functionality.
 - Future improvements are planned to enhance the user experience.
